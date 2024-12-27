@@ -1,4 +1,4 @@
-# Hi, I'm Priyadharsini Manivannan 👋
+# Hi, I'm Priyadharsini Manivannan 👋 ( She/Her )
 
 ## **About Me**  
 🎓 **Master's in Business Analytics** (MSBA) graduate from **UMass Amherst**, with a passion for leveraging data to drive impactful business decisions.  
