@@ -5,7 +5,7 @@
 💼 Experienced in **Data Analysis**, **Machine Learning**, **Financial Modelling** and **Data Engineering**, with a proven track record of developing scalable ETL pipelines and predictive models.  
 🔭 **Currently Working On**: Building real-time data pipelines, customer segmentation models, and advanced machine learning projects to strengthen my expertise in data analysis and engineering.  
 🌱 **Currently Learning**: Advanced data engineering tools like **Apache Kafka**, cloud platforms such as **AWS**, and optimization techniques to expand my technical capabilities.  
-🌟 **Looking for**: Full-time roles as an **Analyst**, where I can apply my skills to solve real-world problems and drive data-driven decision-making.  
+🌟 **Looking for**: Full-time roles as an **Analyst** / **Associate**, where I can apply my skills to solve real-world problems and drive data-driven decision-making.  
 ⚡ **Fun Fact**: Caffeine and shopping are my ultimate reset buttons! 😊  
 
 ---
