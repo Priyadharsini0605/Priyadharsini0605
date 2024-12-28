@@ -25,17 +25,16 @@
 
 ---
 
-
----
 ## **Certifications** 
-- 📜 Google Advanced Data Analytics (link)
+- 📜 Google Advanced Data Analytics ([link](https://www.coursera.org/account/accomplishments/professional-cert/certificate/VOW92ZB2GPSR))
 - 📜 IBM Data Science Professional
 - 📜 Microsoft Power BI
-- 📜 Alteryx Designer Core (link)
+- 📜 Alteryx Designer Core ([link](https://www.credly.com/badges/2840653e-cc28-48e3-a6bd-90959344b4cf/public_url))
 - 📜 Salesforce Certified AI Associate
-- 📜 Advanced SQL for Data Scientists (link)
-- 📜 A/B Testing in Python (link)
+- 📜 Advanced SQL for Data Scientists ([link](https://www.linkedin.com/learning/certificates/5ee204e185bea2da77b74e714eef4aff53c93080a607a11d551ab215b4842a5d?trk=share_certificate))
+- 📜 A/B Testing in Python ([link](https://www.datacamp.com/statement-of-accomplishment/course/86112b0df4fcfa3c14bce18bab5b269d8ae61af6?raw=1))
 
+---
 
 
 ## **Contact Me**  
