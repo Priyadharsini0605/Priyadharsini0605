@@ -25,6 +25,18 @@
 
 ---
 
+
+---
+## **Certifications** 
+📜 Google Advanced Data Analytics
+📜 IBM Data Science Professional 
+📜 Microsoft Power BI 
+📜 Alteryx Designer Core 
+📜 Salesforce Certified AI Associate 
+📜 Advanced SQL for Data Scientists 
+📜 A/B Testing in Python
+
+
 ## **Contact Me**  
 📫 **Email**: [mpriyadharsini6599@gmail.com](mailto:mpriyadharsini6599@gmail.com)  
 💼 **LinkedIn**: [Priyadharsini Manivannan](https://www.linkedin.com/in/priyadharsini-manivannan)  
