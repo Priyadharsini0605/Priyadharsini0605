@@ -28,13 +28,13 @@
 
 ---
 ## **Certifications** 
-📜 Google Advanced Data Analytics
-📜 IBM Data Science Professional 
-📜 Microsoft Power BI 
-📜 Alteryx Designer Core 
-📜 Salesforce Certified AI Associate 
-📜 Advanced SQL for Data Scientists 
-📜 A/B Testing in Python
+- 📜 Google Advanced Data Analytics
+- 📜 IBM Data Science Professional 
+- 📜 Microsoft Power BI 
+- 📜 Alteryx Designer Core 
+- 📜 Salesforce Certified AI Associate 
+- 📜 Advanced SQL for Data Scientists 
+- 📜 A/B Testing in Python
 
 
 ## **Contact Me**  
