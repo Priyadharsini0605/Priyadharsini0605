@@ -28,7 +28,7 @@
 ## **Certifications** 
 - 📜 Google Advanced Data Analytics ([link](https://www.coursera.org/account/accomplishments/professional-cert/certificate/VOW92ZB2GPSR))
 - 📜 IBM Data Science Professional ([link](https://coursera.org/share/4e19b58b57dbc07893e681a90da16f2d))
-- 📜 Microsoft Power BI
+- 📜 Microsoft Power BI ([link](https://www.coursera.org/account/accomplishments/specialization/Y9V3JM0FT8M2))
 - 📜 Alteryx Designer Core ([link](https://www.credly.com/badges/2840653e-cc28-48e3-a6bd-90959344b4cf/public_url))
 - 📜 Salesforce Certified AI Associate
 - 📜 Advanced SQL for Data Scientists ([link](https://www.linkedin.com/learning/certificates/5ee204e185bea2da77b74e714eef4aff53c93080a607a11d551ab215b4842a5d?trk=share_certificate))
