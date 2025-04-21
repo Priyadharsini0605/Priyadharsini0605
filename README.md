@@ -41,5 +41,6 @@
 📫 **Email**: [mpriyadharsini6599@gmail.com](mailto:mpriyadharsini6599@gmail.com)  
 💼 **LinkedIn**: [Priyadharsini Manivannan](https://www.linkedin.com/in/priyadharsini-manivannan)  
 💻 **GitHub**: [Priyadharsini0605](https://github.com/Priyadharsini0605)  
+💻 **Medium**: https://medium.com/@mpriyadharsini6599
 
 ---
