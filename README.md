@@ -26,6 +26,7 @@
 
 ## **Current Interests**  
 🌱  Expanding expertise in real-time data engineering, credit risk modeling, and advanced machine learning applications for business and finance.
+
 🤝 Open to collaborating on data-driven projects in analytics, machine learning, financial risk analytics, and ETL pipeline development.  
 
 ---
