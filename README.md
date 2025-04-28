@@ -32,6 +32,8 @@
 ---
 
 ## **Certifications** 
+- 📜 Preparatory Certificate in Finance and Financial Markets Specialization ([link](https://www.coursera.org/account/accomplishments/specialization/4V4VO57MSR5G))
+- 📜 Financial Engineering and Risk Management
 - 📜 Google Advanced Data Analytics ([link](https://www.coursera.org/account/accomplishments/professional-cert/certificate/VOW92ZB2GPSR))
 - 📜 IBM Data Science Professional ([link](https://coursera.org/share/4e19b58b57dbc07893e681a90da16f2d))
 - 📜 Microsoft Power BI ([link](https://www.coursera.org/account/accomplishments/specialization/Y9V3JM0FT8M2))
