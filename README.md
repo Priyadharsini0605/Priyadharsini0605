@@ -2,10 +2,15 @@
 
 ## **About Me**  
 🎓 **Master's in Business Analytics** (MSBA) graduate from **UMass Amherst**, with a passion for leveraging data to drive impactful business decisions.  
+
 💼 Experienced in **Data Analysis**, **Machine Learning**, **Financial Modelling**, **Risk Analytics** and **Data Engineering**, with a proven track record of developing scalable ETL pipelines,credit risk models and predictive analytics solutions. 
+
 🔭 **Currently Working On**: Building real-time data pipelines, customer segmentation models, and advanced risk and credit scoring models to strengthen my expertise in data analysis and engineering.
+
 🌱 **Currently Learning**: Advanced data engineering tools like **Apache Kafka**, cloud platforms such as **AWS**, and optimization techniques for financial forecasting and risk mitigation.  
+
 🌟 **Looking for**: Full-time roles as an **Analyst** / **Associate**, where I can apply my skills to solve real-world business, finance, and risk management challenges through data-driven decision-making. 
+
 ⚡ **Fun Fact**: Caffeine and shopping are my ultimate reset buttons! 😊  
 
 ---
