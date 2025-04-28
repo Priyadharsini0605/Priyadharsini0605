@@ -2,10 +2,10 @@
 
 ## **About Me**  
 🎓 **Master's in Business Analytics** (MSBA) graduate from **UMass Amherst**, with a passion for leveraging data to drive impactful business decisions.  
-💼 Experienced in **Data Analysis**, **Machine Learning**, **Financial Modelling** and **Data Engineering**, with a proven track record of developing scalable ETL pipelines and predictive models.  
-🔭 **Currently Working On**: Building real-time data pipelines, customer segmentation models, and advanced machine learning projects to strengthen my expertise in data analysis and engineering.  
-🌱 **Currently Learning**: Advanced data engineering tools like **Apache Kafka**, cloud platforms such as **AWS**, and optimization techniques to expand my technical capabilities.  
-🌟 **Looking for**: Full-time roles as an **Analyst** / **Associate**, where I can apply my skills to solve real-world problems and drive data-driven decision-making.  
+💼 Experienced in **Data Analysis**, **Machine Learning**, **Financial Modelling**, **Risk Analytics** and **Data Engineering**, with a proven track record of developing scalable ETL pipelines,credit risk models and predictive analytics solutions. 
+🔭 **Currently Working On**: Building real-time data pipelines, customer segmentation models, and advanced risk and credit scoring models to strengthen my expertise in data analysis and engineering.
+🌱 **Currently Learning**: Advanced data engineering tools like **Apache Kafka**, cloud platforms such as **AWS**, and optimization techniques for financial forecasting and risk mitigation.  
+🌟 **Looking for**: Full-time roles as an **Analyst** / **Associate**, where I can apply my skills to solve real-world business, finance, and risk management challenges through data-driven decision-making. 
 ⚡ **Fun Fact**: Caffeine and shopping are my ultimate reset buttons! 😊  
 
 ---
@@ -13,15 +13,15 @@
 ## **Technical Skills**  
 - **Programming Languages**: Python, R, SQL  
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI, SAP Business Objects  
-- **Machine Learning**: Regression, Clustering, TensorFlow, Scikit-learn, NLP, Time Series Forecasting  
+- **Machine Learning**: Regression, Clustering, TensorFlow, Scikit-learn, NLP, Time Series Forecasting, Risk Modeling, Credit Scoring
 - **Big Data & Cloud**: Apache Spark, Hadoop, AWS (SageMaker, Redshift, Lambda)  
 - **ETL & Tools**: Apache Kafka, Airflow, Alteryx Designer  
 
 ---
 
 ## **Current Interests**  
-🌱 Expanding expertise in real-time data engineering and advanced machine learning models.  
-🤝 Open to collaborating on data-driven projects in analytics, machine learning, and ETL pipeline development, as well as fraud detection systems.  
+🌱  Expanding expertise in real-time data engineering, credit risk modeling, and advanced machine learning applications for business and finance.
+🤝 Open to collaborating on data-driven projects in analytics, machine learning, financial risk analytics, and ETL pipeline development.  
 
 ---
 
